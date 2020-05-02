@@ -1,6 +1,6 @@
 //========= Copyright Valve Corporation, All rights reserved. ============//
 //
-// Purpose: Handling for the suit batteries.
+// --Create By: Bigs--
 //
 // $NoKeywords: $
 //=============================================================================//
