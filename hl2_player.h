@@ -1,6 +1,6 @@
 //========= Copyright Valve Corporation, All rights reserved. ============//
 //
-// Purpose:		Player for HL2.
+// --Create By: Bigs--
 //
 // $NoKeywords: $
 //=============================================================================//
